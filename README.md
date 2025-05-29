@@ -1,19 +1,26 @@
 # 🎓 Student Management GUI (Tkinter)
 
-A colorful, scrollable Python GUI to manage students, subjects, and grades by promotion.
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)
+![License](https://img.shields.io/github/license/SOLARIS-bit/student_management_gui)
+![Last Commit](https://img.shields.io/github/last-commit/SOLARIS-bit/student_management_gui)
 
-## Features
-- Add/remove students
-- Add/remove subjects
-- Assign grades to students per subject
-- Scrollable and centered interface
-- Data saved in `student_data.json`
+A colorful, scrollable Python GUI to manage students, subjects, and grades by promotion — built with Tkinter.
 
-## Run the App
-`python main.py`
+---
 
-## Files
-`main.py`: Launches the app
-`control_panel.py`: Core GUI logic
-`database.py`: Handles data storage
-`student_data.json`: Stores all student, subject, and grade data
+## 📦 Features
+
+- 🎓 Add / remove students
+- 📚 Add / remove subjects
+- 📝 Assign grades per subject and student
+- 📂 Data saved in `student_data.json`
+- 🎨 Scrollable + centered UI
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/YOUR_USERNAME/student_management_gui.git
+cd student_management_gui
+python main.py
