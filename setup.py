@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="student_management_gui",
     version="1.0.0",
-    author="Your Name",
+    author="SOLARIS-bit",
     description="A colorful, scrollable Tkinter-based GUI to manage students, subjects, and grades.",
     packages=find_packages(),
     install_requires=[
