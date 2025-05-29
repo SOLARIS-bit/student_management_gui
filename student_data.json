@@ -1,0 +1,22 @@
+{
+    "students": [
+        "Jeremie",
+        "Kennedy",
+        "Ariel",
+        "Alex",
+        "Dylan",
+        "David"
+    ],
+    "subjects": [
+        "Mathematics For Machine Learning",
+        "Python"
+    ],
+    "grades": {
+        "Jeremie": {
+            "Mathematics For Machine Learning": 18.0
+        },
+        "Kennedy": {
+            "Python": 18.0
+        }
+    }
+}
